@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a **full-stack software engineer** passionate about cr
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chris-holsonback)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-holsonback)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisholsonback358@gmail.com)
 
 ---

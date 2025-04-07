@@ -1,10 +1,8 @@
 # I'm Chris Holsonback 👋
 
-Welcome to my GitHub! I'm a **full-stack software engineer** passionate about creating and innovation.
-
 ---
 
-## 🧰 Technologies I Work With
+## 🧰 Technologies
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

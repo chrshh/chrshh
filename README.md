@@ -25,5 +25,4 @@ Welcome to my GitHub! I'm a **full-stack software engineer** passionate about cr
 ---
 
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration.
 
